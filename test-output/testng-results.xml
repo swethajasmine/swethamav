@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="532" started-at="2022-02-17T17:49:20Z" finished-at="2022-02-17T17:49:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="532" started-at="2022-02-17T17:49:20Z" finished-at="2022-02-17T17:49:21Z">
+      <class name="com.testngprogram.InvocationCount">
+        <test-method status="PASS" signature="jas()[pri:0, instance:com.testngprogram.InvocationCount@45c9b3]" name="jas" duration-ms="61" started-at="2022-02-17T23:19:20Z" finished-at="2022-02-17T23:19:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jas -->
+        <test-method status="PASS" signature="jas()[pri:0, instance:com.testngprogram.InvocationCount@45c9b3]" name="jas" duration-ms="9" started-at="2022-02-17T23:19:20Z" finished-at="2022-02-17T23:19:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jas -->
+        <test-method status="PASS" signature="jas()[pri:0, instance:com.testngprogram.InvocationCount@45c9b3]" name="jas" duration-ms="8" started-at="2022-02-17T23:19:20Z" finished-at="2022-02-17T23:19:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jas -->
+        <test-method status="PASS" signature="jas()[pri:0, instance:com.testngprogram.InvocationCount@45c9b3]" name="jas" duration-ms="12" started-at="2022-02-17T23:19:20Z" finished-at="2022-02-17T23:19:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jas -->
+        <test-method status="PASS" signature="jas()[pri:0, instance:com.testngprogram.InvocationCount@45c9b3]" name="jas" duration-ms="9" started-at="2022-02-17T23:19:20Z" finished-at="2022-02-17T23:19:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jas -->
+        <test-method status="PASS" signature="jeni()[pri:0, instance:com.testngprogram.InvocationCount@45c9b3]" name="jeni" duration-ms="13" started-at="2022-02-17T23:19:20Z" finished-at="2022-02-17T23:19:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jeni -->
+      </class> <!-- com.testngprogram.InvocationCount -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
